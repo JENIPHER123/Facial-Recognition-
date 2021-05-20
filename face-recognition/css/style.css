@@ -1,0 +1,16 @@
+body{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   height: 100vh;
+}
+.section1{
+   width: 100%;
+  
+}
+h1{
+   font-family: fantasy;
+}
+span{
+   color: crimson;
+}
